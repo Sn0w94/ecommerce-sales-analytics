@@ -110,7 +110,6 @@ created: 2026-05-26
 
 
 
-> \_\[To pole wypełniasz SAM po analizie danych]\_
 
 
 
